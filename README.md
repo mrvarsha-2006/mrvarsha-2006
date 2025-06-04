@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @mrvarsha-2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Varsha!
 
-<!---
-mrvarsha-2006/mrvarsha-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 3rd-Year Biomedical Engineering Student  
+💡 Passionate about Technology in Healthcare | Programming and Innovating Healthcare Solutions | Python | Working on Building something new
+
+---
+
+## 🚀 Current Focus
+
+- 🔬 **Smart IV Drip Monitoring System** using ESP32, Load Cell, HX711, LCD & Blynk App   
+- 🤖 Learning **Machine Learning, Artificial Intelligence, Arduino**  
+- 📘 **GATE 2025 Aspirant**
+
+---
+
+## 🛠 Skills & Tools
+
+- 💻 **Programming**: Python, C, Arduino
+- ⚙️ **Platforms**: ESP32, Arduino IDE, Blynk
+- 📊 **Others**: MATLAB (Signal Processing), Git & GitHub
+- 🧠 **Domains**: IoT in Healthcare, Biomedical Device, Machine Learning
+
+---
+
+## 📂 Projects
+
+
+*(projects coming soon...)*
+
+---
+
+## 📈 Learning Goals (2025)
+
+- 📗 Complete ML Course & Projects (June)
+- ⚡ Build more real-time healthcare solutions 
+- 🧪 Get hands-on with mini-projects every semester
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 LinkerIn: www.linkedin.com/in/varsha-m-r-889394286
+- 📬 Email: mrvarsha01@email.com
+
+---
+
+> “I believe in engineering solutions that don't just work — they improve lives.” 
+> — Varsha M R
