@@ -29,18 +29,10 @@
 
 ---
 
-## 📈 Learning Goals (2025)
-
-- 📗 Complete ML Course & Projects (June)
-- ⚡ Build more real-time healthcare solutions 
-- 🧪 Get hands-on with mini-projects every semester
-
----
-
 ## 📫 Let’s Connect
 
 - 🔗 LinkerIn: www.linkedin.com/in/varsha-m-r-889394286
-- 📬 Email: mrvarsha01@email.com
+- 📬 Email: mrvarsha01@gmail.com
 
 ---
 
