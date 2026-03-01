@@ -9,7 +9,7 @@
 
 - 🔬 **Smart IV Drip Monitoring System** using ESP32, Load Cell, HX711, LCD & Blynk App   
 - 🤖 Learning **Machine Learning, Artificial Intelligence, Arduino**  
-- 📘 **GATE 2025 Aspirant**
+- 📘 **GATE 2027 Aspirant**
 
 ---
 
